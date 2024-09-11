@@ -1,0 +1,1265 @@
+entity_name,year,gdp_per_capita,origin
+Afghanistan,2021,1516,wb
+Afghanistan,2020,1968,wb
+Afghanistan,2018,2061,wb
+Afghanistan,2017,2096,wb
+Afghanistan,2019,2080,wb
+Albania,2019,13653,wb
+Albania,2017,12771,wb
+Albania,2018,13317,wb
+Albania,2020,13278,wb
+Albania,2021,14596,wb
+Albania,2022,15492,wb
+Algeria,2017,11809,wb
+Algeria,2018,11726,wb
+Algeria,2019,11627,wb
+Algeria,2021,11029,wb
+Algeria,2022,11198,wb
+Algeria,2020,10845,wb
+Angola,2017,7216,wb
+Angola,2018,6879,wb
+Angola,2019,6602,wb
+Angola,2020,6030,wb
+Angola,2021,5912,wb
+Angola,2022,5906,wb
+Anguilla,2017,13414,pw
+Anguilla,2018,10206,pw
+Anguilla,2019,15178,pw
+Antigua and Barbuda,2017,21672,wb
+Antigua and Barbuda,2018,23051,wb
+Antigua and Barbuda,2019,23639,wb
+Antigua and Barbuda,2020,19062,wb
+Antigua and Barbuda,2021,20501,wb
+Antigua and Barbuda,2022,22322,wb
+Argentina,2018,22747,wb
+Argentina,2022,22461,wb
+Argentina,2021,21600,wb
+Argentina,2020,19695,wb
+Argentina,2019,22072,wb
+Argentina,2017,23597,wb
+Armenia,2022,16057,wb
+Armenia,2021,14207,wb
+Armenia,2020,13358,wb
+Armenia,2019,14318,wb
+Armenia,2018,13231,wb
+Armenia,2017,12510,wb
+Aruba,2017,38868,wb
+Aruba,2018,39598,wb
+Aruba,2019,38511,wb
+Aruba,2020,29236,wb
+Aruba,2021,37334,wb
+Aruba,2022,41274,wb
+Australia,2022,51090,wb
+Australia,2021,49609,wb
+Australia,2020,48652,wb
+Australia,2019,49421,wb
+Australia,2018,49086,wb
+Australia,2017,48419,wb
+Austria,2022,55867,wb
+Austria,2021,53817,wb
+Austria,2020,51855,wb
+Austria,2019,55770,wb
+Austria,2018,55217,wb
+Austria,2017,54173,wb
+Azerbaijan,2017,14121,wb
+Azerbaijan,2018,14210,wb
+Azerbaijan,2019,14442,wb
+Azerbaijan,2020,13727,wb
+Azerbaijan,2021,14434,wb
+Azerbaijan,2022,15094,wb
+Bahamas,2017,34068,wb
+Bahamas,2018,34810,wb
+Bahamas,2019,34325,wb
+Bahamas,2020,26132,wb
+Bahamas,2022,34663,wb
+Bahamas,2021,30463,wb
+Bahrain,2017,48929,wb
+Bahrain,2021,49754,wb
+Bahrain,2019,49769,wb
+Bahrain,2018,48938,wb
+Bahrain,2020,47994,wb
+Bahrain,2022,51855,wb
+Bangladesh,2017,4831,wb
+Bangladesh,2018,5124,wb
+Bangladesh,2019,5467,wb
+Bangladesh,2020,5591,wb
+Bangladesh,2021,5911,wb
+Bangladesh,2022,6263,wb
+Barbados,2022,15417,wb
+Barbados,2021,13869,wb
+Barbados,2020,14004,wb
+Barbados,2019,16078,wb
+Barbados,2018,16063,wb
+Barbados,2017,16234,wb
+Belarus,2017,18356,wb
+Belarus,2020,19240,wb
+Belarus,2019,19288,wb
+Belarus,2018,18975,wb
+Belarus,2021,19873,wb
+Belarus,2022,19092,wb
+Belgium,2022,53287,wb
+Belgium,2017,50442,wb
+Belgium,2018,51113,wb
+Belgium,2019,51977,wb
+Belgium,2021,52175,wb
+Belgium,2020,49031,wb
+Belize,2017,8799,wb
+Belize,2018,8720,wb
+Belize,2019,8925,wb
+Belize,2020,7586,wb
+Belize,2021,8827,wb
+Belize,2022,9474,wb
+Benin,2021,3322,wb
+Benin,2017,2934,wb
+Benin,2018,3040,wb
+Benin,2019,3156,wb
+Benin,2020,3186,wb
+Benin,2022,3435,wb
+Bermuda,2020,76118,wb
+Bermuda,2022,81166,wb
+Bermuda,2021,78570,wb
+Bermuda,2019,81682,wb
+Bermuda,2018,81423,wb
+Bermuda,2017,81835,wb
+Bhutan,2021,11596,wb
+Bhutan,2020,11176,wb
+Bhutan,2019,12530,wb
+Bhutan,2018,11932,wb
+Bhutan,2017,11619,wb
+Bolivia,2018,8466,wb
+Bolivia,2019,8529,wb
+Bolivia,2020,7680,wb
+Bolivia,2021,8053,wb
+Bolivia,2022,8244,wb
+Bolivia,2017,8245,wb
+Bosnia and Herzegovina,2020,14588,wb
+Bosnia and Herzegovina,2019,14852,wb
+Bosnia and Herzegovina,2018,14268,wb
+Bosnia and Herzegovina,2017,13582,wb
+Bosnia and Herzegovina,2021,15893,wb
+Bosnia and Herzegovina,2022,16737,wb
+Botswana,2017,14657,wb
+Botswana,2019,15118,wb
+Botswana,2020,13545,wb
+Botswana,2021,14907,wb
+Botswana,2022,15519,wb
+Botswana,2018,14962,wb
+Brazil,2022,15093,wb
+Brazil,2019,14685,wb
+Brazil,2021,14736,wb
+Brazil,2020,14110,wb
+Brazil,2017,14478,wb
+Brazil,2018,14620,wb
+British Virgin Islands,2017,35850,pw
+British Virgin Islands,2019,37369,pw
+British Virgin Islands,2018,36694,pw
+Brunei,2022,58670,wb
+Brunei,2021,60127,wb
+Brunei,2020,61604,wb
+Brunei,2019,61424,wb
+Brunei,2018,59650,wb
+Brunei,2017,60173,wb
+Bulgaria,2021,24386,wb
+Bulgaria,2022,26961,wb
+Bulgaria,2020,22467,wb
+Bulgaria,2019,23255,wb
+Bulgaria,2018,22196,wb
+Bulgaria,2017,21458,wb
+Burkina Faso,2018,2051,wb
+Burkina Faso,2017,1978,wb
+Burkina Faso,2021,2176,wb
+Burkina Faso,2019,2106,wb
+Burkina Faso,2020,2090,wb
+Burkina Faso,2022,2159,wb
+Burundi,2017,751,wb
+Burundi,2018,740,wb
+Burundi,2019,730,wb
+Burundi,2021,714,wb
+Burundi,2022,708,wb
+Burundi,2020,711,wb
+Cambodia,2017,3973,wb
+Cambodia,2018,4218,wb
+Cambodia,2019,4464,wb
+Cambodia,2020,4276,wb
+Cambodia,2021,4355,wb
+Cambodia,2022,4534,wb
+Cameroon,2022,3724,wb
+Cameroon,2021,3689,wb
+Cameroon,2020,3666,wb
+Cameroon,2019,3757,wb
+Cameroon,2018,3733,wb
+Cameroon,2017,3691,wb
+Canada,2018,48946,wb
+Canada,2019,49169,wb
+Canada,2020,46193,wb
+Canada,2021,48356,wb
+Canada,2022,49296,wb
+Canada,2017,48317,wb
+Cape Verde,2017,7131,wb
+Cape Verde,2018,7314,wb
+Cape Verde,2019,7743,wb
+Cape Verde,2020,6073,wb
+Cape Verde,2021,6357,wb
+Cape Verde,2022,7379,wb
+Cayman Islands,2022,71354,wb
+Cayman Islands,2021,69401,wb
+Cayman Islands,2020,67531,wb
+Cayman Islands,2019,72432,wb
+Cayman Islands,2017,69535,wb
+Cayman Islands,2018,71046,wb
+Central African Republic,2017,840,wb
+Central African Republic,2018,855,wb
+Central African Republic,2019,862,wb
+Central African Republic,2020,848,wb
+Central African Republic,2021,838,wb
+Central African Republic,2022,824,wb
+Chad,2022,1413,wb
+Chad,2021,1425,wb
+Chad,2020,1489,wb
+Chad,2019,1562,wb
+Chad,2018,1564,wb
+Chad,2017,1580,wb
+Chile,2021,25413,wb
+Chile,2017,24547,wb
+Chile,2018,25072,wb
+Chile,2019,24810,wb
+Chile,2022,25886,wb
+Chile,2020,22971,wb
+China,2021,17658,wb
+China,2019,15978,wb
+China,2018,15134,wb
+China,2017,14244,wb
+China,2020,16297,wb
+China,2022,18188,wb
+Colombia,2022,15617,wb
+Colombia,2021,14661,wb
+Colombia,2020,13358,wb
+Colombia,2019,14616,wb
+Colombia,2018,14426,wb
+Colombia,2017,14335,wb
+Comoros,2017,3240,wb
+Comoros,2018,3295,wb
+Comoros,2019,3291,wb
+Comoros,2020,3222,wb
+Comoros,2021,3229,wb
+Comoros,2022,3246,wb
+Congo,2017,4346,wb
+Congo,2018,4145,wb
+Congo,2019,4094,wb
+Congo,2020,3749,wb
+Congo,2021,3700,wb
+Congo,2022,3670,wb
+Costa Rica,2018,20503,wb
+Costa Rica,2017,20168,wb
+Costa Rica,2019,20818,wb
+Costa Rica,2020,19778,wb
+Costa Rica,2021,21220,wb
+Costa Rica,2022,22071,wb
+Cote d'Ivoire,2022,5537,wb
+Cote d'Ivoire,2021,5316,wb
+Cote d'Ivoire,2020,5092,wb
+Cote d'Ivoire,2019,5132,wb
+Cote d'Ivoire,2018,4942,wb
+Cote d'Ivoire,2017,4836,wb
+Croatia,2022,34302,wb
+Croatia,2021,32061,wb
+Croatia,2020,27002,wb
+Croatia,2018,28288,wb
+Croatia,2017,27268,wb
+Croatia,2019,29412,wb
+Cuba,2022,9500,other-estimated
+Curacao,2017,24796,wb
+Curacao,2020,19907,wb
+Curacao,2019,23904,wb
+Curacao,2021,21091,wb
+Curacao,2018,24402,wb
+Curacao,2022,23115,wb
+Cyprus,2022,44996,wb
+Cyprus,2021,43417,wb
+Cyprus,2020,39872,wb
+Cyprus,2019,41742,wb
+Cyprus,2018,39977,wb
+Cyprus,2017,38288,wb
+Czechia,2018,39941,wb
+Czechia,2019,40990,wb
+Czechia,2020,38640,wb
+Czechia,2021,40744,wb
+Czechia,2022,41052,wb
+Czechia,2017,38825,wb
+Democratic Republic of Congo,2022,1133,wb
+Democratic Republic of Congo,2017,1024,wb
+Democratic Republic of Congo,2018,1048,wb
+Democratic Republic of Congo,2019,1060,wb
+Democratic Republic of Congo,2020,1044,wb
+Democratic Republic of Congo,2021,1074,wb
+Denmark,2020,55275,wb
+Denmark,2019,56814,wb
+Denmark,2018,56179,wb
+Denmark,2017,55357,wb
+Denmark,2021,58803,wb
+Denmark,2022,59935,wb
+Djibouti,2019,4768,wb
+Djibouti,2022,4989,wb
+Djibouti,2018,4589,wb
+Djibouti,2021,4905,wb
+Djibouti,2017,4452,wb
+Djibouti,2020,4759,wb
+Dominica,2017,11512,wb
+Dominica,2018,11849,wb
+Dominica,2019,12395,wb
+Dominica,2020,10256,wb
+Dominica,2021,10899,wb
+Dominica,2022,11464,wb
+Dominican Republic,2019,18171,wb
+Dominican Republic,2018,17484,wb
+Dominican Republic,2022,19338,wb
+Dominican Republic,2021,18626,wb
+Dominican Republic,2020,16768,wb
+Dominican Republic,2017,16525,wb
+East Asia and Pacific (WB),2017,16338,wb
+East Asia and Pacific (WB),2018,17065,wb
+East Asia and Pacific (WB),2019,17710,wb
+East Asia and Pacific (WB),2020,17601,wb
+East Asia and Pacific (WB),2021,18645,wb
+East Asia and Pacific (WB),2022,19195,wb
+East Timor,2017,3143,wb
+East Timor,2020,4862,wb
+East Timor,2019,3740,wb
+East Timor,2021,5039,wb
+East Timor,2022,3943,wb
+East Timor,2018,3076,wb
+Ecuador,2019,11390,wb
+Ecuador,2022,10859,wb
+Ecuador,2021,10669,wb
+Ecuador,2020,10357,wb
+Ecuador,2018,11608,wb
+Ecuador,2017,11679,wb
+Egypt,2017,10995,wb
+Egypt,2018,11363,wb
+Egypt,2019,11781,wb
+Egypt,2020,11990,wb
+Egypt,2021,12180,wb
+Egypt,2022,12781,wb
+El Salvador,2022,9396,wb
+El Salvador,2017,8618,wb
+El Salvador,2018,8813,wb
+El Salvador,2019,9016,wb
+El Salvador,2020,8295,wb
+El Salvador,2021,9190,wb
+Equatorial Guinea,2022,14918,wb
+Equatorial Guinea,2020,15046,wb
+Equatorial Guinea,2019,16240,wb
+Equatorial Guinea,2018,17765,wb
+Equatorial Guinea,2017,19618,wb
+Equatorial Guinea,2021,14731,wb
+Estonia,2017,33822,wb
+Estonia,2022,37712,wb
+Estonia,2020,35883,wb
+Estonia,2019,36153,wb
+Estonia,2018,34980,wb
+Estonia,2021,38718,wb
+Eswatini,2020,8290,wb
+Eswatini,2019,8501,wb
+Eswatini,2018,8344,wb
+Eswatini,2017,8214,wb
+Eswatini,2022,9059,wb
+Eswatini,2021,9087,wb
+Ethiopia,2021,2319,wb
+Ethiopia,2020,2253,wb
+Ethiopia,2019,2182,wb
+Ethiopia,2018,2067,wb
+Ethiopia,2017,1988,wb
+Ethiopia,2022,2381,wb
+Europe and Central Asia (WB),2018,34756,wb
+Europe and Central Asia (WB),2017,34060,wb
+Europe and Central Asia (WB),2020,33529,wb
+Europe and Central Asia (WB),2022,36711,wb
+Europe and Central Asia (WB),2019,35332,wb
+Europe and Central Asia (WB),2021,35683,wb
+European Union (27),2022,45977,wb
+European Union (27),2021,44411,wb
+European Union (27),2020,41824,wb
+European Union (27),2019,44371,wb
+European Union (27),2018,43556,wb
+European Union (27),2017,42665,wb
+Fiji,2022,12388,wb
+Fiji,2020,10962,wb
+Fiji,2017,12822,wb
+Fiji,2021,10380,wb
+Fiji,2018,13311,wb
+Fiji,2019,13242,wb
+Finland,2018,48049,wb
+Finland,2017,47570,wb
+Finland,2019,48583,wb
+Finland,2020,47371,wb
+Finland,2022,49275,wb
+Finland,2021,48615,wb
+France,2020,42345,wb
+France,2017,44577,wb
+France,2021,44941,wb
+France,2022,45904,wb
+France,2019,45923,wb
+France,2018,45246,wb
+Gabon,2021,13823,wb
+Gabon,2020,13903,wb
+Gabon,2019,14478,wb
+Gabon,2018,14254,wb
+Gabon,2017,14478,wb
+Gabon,2022,13940,wb
+Gambia,2017,1927,wb
+Gambia,2018,2013,wb
+Gambia,2019,2083,wb
+Gambia,2020,2043,wb
+Gambia,2021,2077,wb
+Gambia,2022,2114,wb
+Georgia,2019,14989,wb
+Georgia,2017,13590,wb
+Georgia,2018,14253,wb
+Georgia,2020,13966,wb
+Georgia,2021,15487,wb
+Georgia,2022,17078,wb
+Germany,2022,53970,wb
+Germany,2021,53396,wb
+Germany,2020,51780,wb
+Germany,2019,53884,wb
+Germany,2018,53431,wb
+Germany,2017,53071,wb
+Ghana,2021,5421,wb
+Ghana,2020,5264,wb
+Ghana,2019,5346,wb
+Ghana,2018,5125,wb
+Ghana,2017,4930,wb
+Ghana,2022,5480,wb
+Greece,2017,28605,wb
+Greece,2018,29141,wb
+Greece,2019,29720,wb
+Greece,2020,27009,wb
+Greece,2022,31704,wb
+Greece,2021,29631,wb
+Grenada,2022,14463,wb
+Grenada,2021,13688,wb
+Grenada,2020,13176,wb
+Grenada,2019,15394,wb
+Grenada,2018,15402,wb
+Grenada,2017,14870,wb
+Guatemala,2017,8322,wb
+Guatemala,2018,8469,wb
+Guatemala,2019,8673,wb
+Guatemala,2020,8389,wb
+Guatemala,2021,8927,wb
+Guatemala,2022,9162,wb
+Guinea,2022,2699,wb
+Guinea,2017,2384,wb
+Guinea,2018,2472,wb
+Guinea,2019,2545,wb
+Guinea,2020,2604,wb
+Guinea,2021,2640,wb
+Guinea-Bissau,2022,1855,wb
+Guinea-Bissau,2021,1831,wb
+Guinea-Bissau,2020,1804,wb
+Guinea-Bissau,2019,1891,wb
+Guinea-Bissau,2017,1872,wb
+Guinea-Bissau,2018,1852,wb
+Guyana,2022,35635,wb
+Guyana,2021,21925,wb
+Guyana,2020,18431,wb
+Guyana,2019,12821,wb
+Guyana,2018,12374,wb
+Guyana,2017,12194,wb
+Haiti,2017,3200,wb
+Haiti,2018,3209,wb
+Haiti,2019,3112,wb
+Haiti,2020,2970,wb
+Haiti,2021,2881,wb
+Haiti,2022,2799,wb
+High-income countries,2022,51744,wb
+High-income countries,2021,50378,wb
+High-income countries,2020,47667,wb
+High-income countries,2019,49995,wb
+High-income countries,2018,49334,wb
+High-income countries,2017,48418,wb
+Honduras,2017,5448,wb
+Honduras,2018,5561,wb
+Honduras,2019,5614,wb
+Honduras,2020,5028,wb
+Honduras,2021,5572,wb
+Honduras,2022,5709,wb
+Hong Kong,2021,60037,wb
+Hong Kong,2019,59592,wb
+Hong Kong,2018,61055,wb
+Hong Kong,2017,59842,wb
+Hong Kong,2022,58479,wb
+Hong Kong,2020,55892,wb
+Hungary,2021,33584,wb
+Hungary,2020,31232,wb
+Hungary,2019,32646,wb
+Hungary,2018,31117,wb
+Hungary,2017,29496,wb
+Hungary,2022,35357,wb
+Iceland,2022,55567,wb
+Iceland,2021,53136,wb
+Iceland,2020,51684,wb
+Iceland,2019,56615,wb
+Iceland,2018,56817,wb
+Iceland,2017,55638,wb
+India,2017,6112,wb
+India,2018,6436,wb
+India,2019,6617,wb
+India,2020,6172,wb
+India,2021,6677,wb
+India,2022,7112,wb
+Indonesia,2018,11397,wb
+Indonesia,2017,10942,wb
+Indonesia,2019,11858,wb
+Indonesia,2020,11516,wb
+Indonesia,2021,11859,wb
+Indonesia,2022,12410,wb
+Iran,2022,15461,wb
+Iran,2021,15005,wb
+Iran,2020,14432,wb
+Iran,2019,14084,wb
+Iran,2017,15163,wb
+Iran,2018,14691,wb
+Iraq,2017,9977,wb
+Iraq,2022,9199,wb
+Iraq,2018,9995,wb
+Iraq,2020,8848,wb
+Iraq,2019,10299,wb
+Iraq,2021,8787,wb
+Ireland,2020,91791,wb
+Ireland,2019,86985,wb
+Ireland,2018,83746,wb
+Ireland,2017,78169,wb
+Ireland,2022,112445,wb
+Ireland,2021,104672,wb
+Israel,2017,39448,wb
+Israel,2018,40270,wb
+Israel,2019,41151,wb
+Israel,2020,39681,wb
+Israel,2021,42379,wb
+Israel,2022,44393,wb
+Italy,2021,42563,wb
+Italy,2020,39094,wb
+Italy,2019,42739,wb
+Italy,2018,42046,wb
+Italy,2017,41581,wb
+Italy,2022,44292,wb
+Jamaica,2022,10108,wb
+Jamaica,2021,9605,wb
+Jamaica,2020,9206,wb
+Jamaica,2019,10244,wb
+Jamaica,2018,10161,wb
+Jamaica,2017,9985,wb
+Japan,2017,41444,wb
+Japan,2018,41764,wb
+Japan,2019,41654,wb
+Japan,2020,40045,wb
+Japan,2021,41259,wb
+Japan,2022,41838,wb
+Jordan,2022,9491,wb
+Jordan,2021,9380,wb
+Jordan,2020,9231,wb
+Jordan,2019,9535,wb
+Jordan,2018,9585,wb
+Jordan,2017,9629,wb
+Kazakhstan,2022,26093,wb
+Kazakhstan,2021,26111,wb
+Kazakhstan,2020,25362,wb
+Kazakhstan,2019,26352,wb
+Kazakhstan,2018,25544,wb
+Kazakhstan,2017,24863,wb
+Kenya,2019,4601,wb
+Kenya,2018,4465,wb
+Kenya,2017,4313,wb
+Kenya,2020,4497,wb
+Kenya,2022,4882,wb
+Kenya,2021,4746,wb
+Kiribati,2022,2003,wb
+Kiribati,2021,2008,wb
+Kiribati,2020,1897,wb
+Kiribati,2019,1964,wb
+Kiribati,2018,2039,wb
+Kiribati,2017,1971,wb
+Kosovo,2017,10436,wb
+Kosovo,2020,10707,wb
+Kosovo,2019,11318,wb
+Kosovo,2021,11884,wb
+Kosovo,2022,12675,wb
+Kosovo,2018,10755,wb
+Kuwait,2022,49400,wb
+Kuwait,2021,45580,wb
+Kuwait,2020,43923,wb
+Kuwait,2019,47315,wb
+Kuwait,2018,48943,wb
+Kuwait,2017,50007,wb
+Kyrgyzstan,2018,5133,wb
+Kyrgyzstan,2019,5258,wb
+Kyrgyzstan,2020,4791,wb
+Kyrgyzstan,2021,4910,wb
+Kyrgyzstan,2022,5070,wb
+Kyrgyzstan,2017,5047,wb
+Laos,2017,7211,wb
+Laos,2018,7546,wb
+Laos,2019,7840,wb
+Laos,2020,7764,wb
+Laos,2021,7847,wb
+Laos,2022,7948,wb
+Latin America and Caribbean (WB),2022,16484,wb
+Latin America and Caribbean (WB),2021,15957,wb
+Latin America and Caribbean (WB),2020,14976,wb
+Latin America and Caribbean (WB),2019,16178,wb
+Latin America and Caribbean (WB),2018,16198,wb
+Latin America and Caribbean (WB),2017,16075,wb
+Latvia,2017,28674,wb
+Latvia,2019,30438,wb
+Latvia,2020,29576,wb
+Latvia,2021,31834,wb
+Latvia,2022,32992,wb
+Latvia,2018,30051,wb
+Lebanon,2019,17185,wb
+Lebanon,2020,13791,wb
+Lebanon,2018,17938,wb
+Lebanon,2017,17808,wb
+Lebanon,2021,12987,wb
+Lesotho,2022,2240,wb
+Lesotho,2021,2239,wb
+Lesotho,2020,2225,wb
+Lesotho,2019,2435,wb
+Lesotho,2018,2501,wb
+Lesotho,2017,2571,wb
+Liberia,2019,1456,wb
+Liberia,2022,1461,wb
+Liberia,2021,1423,wb
+Liberia,2018,1522,wb
+Liberia,2017,1533,wb
+Liberia,2020,1384,wb
+Libya,2022,19797,wb
+Libya,2021,20274,wb
+Libya,2020,15621,wb
+Libya,2019,22535,wb
+Libya,2018,25734,wb
+Libya,2017,24213,wb
+Liechtenstein,2022,174678,other-estimated
+Lithuania,2022,39955,wb
+Lithuania,2021,39432,wb
+Lithuania,2020,37180,wb
+Lithuania,2019,37199,wb
+Lithuania,2018,35447,wb
+Lithuania,2017,33762,wb
+Low-income countries,2018,1951,wb
+Low-income countries,2019,1979,wb
+Low-income countries,2020,1938,wb
+Low-income countries,2021,1922,wb
+Low-income countries,2022,1949,wb
+Low-income countries,2017,1933,wb
+Lower-middle-income countries,2017,6475,wb
+Lower-middle-income countries,2018,6705,wb
+Lower-middle-income countries,2019,6852,wb
+Lower-middle-income countries,2020,6541,wb
+Lower-middle-income countries,2022,7138,wb
+Lower-middle-income countries,2021,6865,wb
+Luxembourg,2022,117747,wb
+Luxembourg,2021,118510,wb
+Luxembourg,2020,112275,wb
+Luxembourg,2019,115210,wb
+Luxembourg,2017,114986,wb
+Luxembourg,2018,114164,wb
+Macao,2018,128220,wb
+Macao,2017,122838,wb
+Macao,2022,51840,wb
+Macao,2020,54916,wb
+Macao,2019,122550,wb
+Macao,2021,66821,wb
+Madagascar,2017,1548,wb
+Madagascar,2018,1557,wb
+Madagascar,2019,1585,wb
+Madagascar,2020,1436,wb
+Madagascar,2021,1482,wb
+Madagascar,2022,1502,wb
+Malawi,2022,1467,wb
+Malawi,2021,1491,wb
+Malawi,2020,1490,wb
+Malawi,2019,1518,wb
+Malawi,2018,1478,wb
+Malawi,2017,1455,wb
+Malaysia,2017,25935,wb
+Malaysia,2018,26836,wb
+Malaysia,2019,27674,wb
+Malaysia,2020,25852,wb
+Malaysia,2021,26407,wb
+Malaysia,2022,28384,wb
+Maldives,2022,21271,wb
+Maldives,2021,18758,wb
+Maldives,2020,13809,wb
+Maldives,2018,20150,wb
+Maldives,2017,19222,wb
+Maldives,2019,20988,wb
+Mali,2022,2133,wb
+Mali,2021,2121,wb
+Mali,2019,2219,wb
+Mali,2018,2186,wb
+Mali,2020,2124,wb
+Mali,2017,2154,wb
+Malta,2020,41754,wb
+Malta,2018,45116,wb
+Malta,2019,46439,wb
+Malta,2021,46599,wb
+Malta,2022,48642,wb
+Malta,2017,43494,wb
+Marshall Islands,2022,6004,wb
+Marshall Islands,2021,5976,wb
+Marshall Islands,2020,5725,wb
+Marshall Islands,2019,5719,wb
+Marshall Islands,2018,5040,wb
+Marshall Islands,2017,4649,wb
+Mauritania,2017,5259,wb
+Mauritania,2018,5367,wb
+Mauritania,2019,5393,wb
+Mauritania,2020,5236,wb
+Mauritania,2021,5142,wb
+Mauritania,2022,5330,wb
+Mauritius,2019,23676,wb
+Mauritius,2018,23019,wb
+Mauritius,2020,20232,wb
+Mauritius,2021,20915,wb
+Mauritius,2022,22841,wb
+Mauritius,2017,22144,wb
+Mexico,2022,20255,wb
+Mexico,2021,19618,wb
+Mexico,2020,18640,wb
+Mexico,2019,20554,wb
+Mexico,2018,20789,wb
+Mexico,2017,20582,wb
+Micronesia (country),2018,3514,wb
+Micronesia (country),2020,3421,wb
+Micronesia (country),2019,3541,wb
+Micronesia (country),2017,3522,wb
+Micronesia (country),2021,3321,wb
+Micronesia (country),2022,3264,wb
+Middle East and North Africa (WB),2018,16446,wb
+Middle East and North Africa (WB),2017,16392,wb
+Middle East and North Africa (WB),2022,16773,wb
+Middle East and North Africa (WB),2019,16332,wb
+Middle East and North Africa (WB),2021,16067,wb
+Middle East and North Africa (WB),2020,15583,wb
+Middle-income countries,2018,11232,wb
+Middle-income countries,2017,10833,wb
+Middle-income countries,2020,11223,wb
+Middle-income countries,2022,12265,wb
+Middle-income countries,2019,11539,wb
+Middle-income countries,2021,11908,wb
+Moldova,2022,13308,wb
+Moldova,2021,13704,wb
+Moldova,2020,11849,wb
+Moldova,2019,12777,wb
+Moldova,2018,12143,wb
+Moldova,2017,11464,wb
+Monaco,2022,224670,other-estimated
+Mongolia,2017,11431,wb
+Mongolia,2018,12052,wb
+Mongolia,2019,12458,wb
+Mongolia,2020,11667,wb
+Mongolia,2021,11668,wb
+Mongolia,2022,12073,wb
+Montenegro,2019,21534,wb
+Montenegro,2020,18259,wb
+Montenegro,2018,20687,wb
+Montenegro,2017,19682,wb
+Montenegro,2021,20711,wb
+Montenegro,2022,22109,wb
+Montserrat,2019,15573,pw
+Montserrat,2018,14780,pw
+Montserrat,2017,14537,pw
+Morocco,2017,7922,wb
+Morocco,2019,8218,wb
+Morocco,2018,8072,wb
+Morocco,2020,7547,wb
+Morocco,2022,8083,wb
+Morocco,2021,8066,wb
+Mozambique,2018,1298,wb
+Mozambique,2022,1251,wb
+Mozambique,2021,1232,wb
+Mozambique,2020,1238,wb
+Mozambique,2019,1290,wb
+Mozambique,2017,1292,wb
+Myanmar,2017,4670,wb
+Myanmar,2019,5214,wb
+Myanmar,2018,4927,wb
+Myanmar,2022,4250,wb
+Myanmar,2021,4114,wb
+Myanmar,2020,4709,wb
+Namibia,2018,10266,wb
+Namibia,2022,9763,wb
+Namibia,2021,9209,wb
+Namibia,2020,9042,wb
+Namibia,2019,10010,wb
+Namibia,2017,10335,wb
+Nauru,2022,11024,wb
+Nauru,2021,10990,wb
+Nauru,2020,10813,wb
+Nauru,2019,10530,wb
+Nauru,2018,9896,wb
+Nauru,2017,9360,wb
+Nepal,2018,3719,wb
+Nepal,2019,3922,wb
+Nepal,2020,3762,wb
+Nepal,2021,3854,wb
+Nepal,2022,4002,wb
+Nepal,2017,3496,wb
+Netherlands,2017,55089,wb
+Netherlands,2022,59249,wb
+Netherlands,2018,56061,wb
+Netherlands,2019,56784,wb
+Netherlands,2020,54275,wb
+Netherlands,2021,57335,wb
+New Zealand,2022,45185,wb
+New Zealand,2017,42205,wb
+New Zealand,2018,42917,wb
+New Zealand,2019,43273,wb
+New Zealand,2020,42052,wb
+New Zealand,2021,44042,wb
+Nicaragua,2022,5822,wb
+Nicaragua,2021,5692,wb
+Nicaragua,2020,5231,wb
+Nicaragua,2019,5398,wb
+Nicaragua,2018,5637,wb
+Nicaragua,2017,5915,wb
+Niger,2017,1156,wb
+Niger,2019,1217,wb
+Niger,2020,1215,wb
+Niger,2021,1187,wb
+Niger,2022,1275,wb
+Niger,2018,1193,wb
+Nigeria,2021,4923,wb
+Nigeria,2020,4865,wb
+Nigeria,2019,5076,wb
+Nigeria,2018,5090,wb
+Nigeria,2017,5120,wb
+Nigeria,2022,4963,wb
+North America (WB),2017,58741,wb
+North America (WB),2018,60089,wb
+North America (WB),2019,61108,wb
+North America (WB),2020,58725,wb
+North America (WB),2021,62061,wb
+North America (WB),2022,63023,wb
+North Korea,2022,2050,other-estimated
+North Macedonia,2017,15707,wb
+North Macedonia,2019,16773,wb
+North Macedonia,2020,15780,wb
+North Macedonia,2021,16709,wb
+North Macedonia,2022,17129,wb
+North Macedonia,2018,16146,wb
+Norway,2022,67296,wb
+Norway,2021,65916,wb
+Norway,2020,63776,wb
+Norway,2019,64983,wb
+Norway,2018,64696,wb
+Norway,2017,64590,wb
+Oman,2019,33814,wb
+Oman,2017,34218,wb
+Oman,2018,34212,wb
+Oman,2020,33098,wb
+Oman,2021,34295,wb
+Oman,2022,35337,wb
+Pakistan,2022,5377,wb
+Pakistan,2017,4892,wb
+Pakistan,2018,5113,wb
+Pakistan,2019,5158,wb
+Pakistan,2020,5004,wb
+Pakistan,2021,5233,wb
+Palau,2020,16405,wb
+Palau,2018,17816,wb
+Palau,2017,17595,wb
+Palau,2021,14113,wb
+Palau,2019,17800,wb
+Palestine,2020,5403,wb
+Palestine,2017,6402,wb
+Palestine,2018,6318,wb
+Palestine,2019,6245,wb
+Palestine,2021,5641,wb
+Palestine,2022,5722,wb
+Panama,2021,30417,wb
+Panama,2022,33266,wb
+Panama,2020,26606,wb
+Panama,2019,32788,wb
+Panama,2018,32259,wb
+Panama,2017,31638,wb
+Papua New Guinea,2021,3638,wb
+Papua New Guinea,2017,3967,wb
+Papua New Guinea,2018,3865,wb
+Papua New Guinea,2019,3948,wb
+Papua New Guinea,2020,3742,wb
+Papua New Guinea,2022,3753,wb
+Paraguay,2022,13531,wb
+Paraguay,2021,13676,wb
+Paraguay,2020,13317,wb
+Paraguay,2019,13610,wb
+Paraguay,2017,13604,wb
+Paraguay,2018,13848,wb
+Peru,2017,12443,wb
+Peru,2018,12696,wb
+Peru,2019,12735,wb
+Peru,2020,11187,wb
+Peru,2021,12534,wb
+Peru,2022,12744,wb
+Philippines,2018,8366,wb
+Philippines,2017,8002,wb
+Philippines,2019,8732,wb
+Philippines,2020,7773,wb
+Philippines,2021,8096,wb
+Philippines,2022,8582,wb
+Poland,2018,31739,wb
+Poland,2017,29958,wb
+Poland,2019,33160,wb
+Poland,2020,32547,wb
+Poland,2021,34944,wb
+Poland,2022,37707,wb
+Portugal,2018,34041,wb
+Portugal,2022,35768,wb
+Portugal,2021,33636,wb
+Portugal,2020,32011,wb
+Portugal,2019,34946,wb
+Portugal,2017,33045,wb
+Puerto Rico,2020,32438,wb
+Puerto Rico,2022,34298,wb
+Puerto Rico,2021,32767,wb
+Puerto Rico,2018,34223,wb
+Puerto Rico,2017,34364,wb
+Puerto Rico,2019,34793,wb
+Qatar,2022,96558,wb
+Qatar,2021,92895,wb
+Qatar,2020,89019,wb
+Qatar,2019,90762,wb
+Qatar,2018,91462,wb
+Qatar,2017,92178,wb
+Romania,2018,28736,wb
+Romania,2017,26943,wb
+Romania,2022,32496,wb
+Romania,2021,30946,wb
+Romania,2020,29057,wb
+Romania,2019,30001,wb
+Russia,2022,27450,wb
+Russia,2021,28057,wb
+Russia,2020,26587,wb
+Russia,2019,27255,wb
+Russia,2018,26656,wb
+Russia,2017,25926,wb
+Rwanda,2022,2365,wb
+Rwanda,2021,2238,wb
+Rwanda,2020,2066,wb
+Rwanda,2019,2191,wb
+Rwanda,2018,2050,wb
+Rwanda,2017,1935,wb
+Saint Kitts and Nevis,2017,29318,wb
+Saint Kitts and Nevis,2018,29934,wb
+Saint Kitts and Nevis,2019,31179,wb
+Saint Kitts and Nevis,2020,26678,wb
+Saint Kitts and Nevis,2021,26460,wb
+Saint Kitts and Nevis,2022,28770,wb
+Saint Lucia,2017,15247,wb
+Saint Lucia,2018,15623,wb
+Saint Lucia,2019,15461,wb
+Saint Lucia,2020,11651,wb
+Saint Lucia,2022,15100,wb
+Saint Lucia,2021,13046,wb
+Saint Vincent and the Grenadines,2017,13575,wb
+Saint Vincent and the Grenadines,2018,14042,wb
+Saint Vincent and the Grenadines,2019,14183,wb
+Saint Vincent and the Grenadines,2020,13691,wb
+Saint Vincent and the Grenadines,2021,13839,wb
+Saint Vincent and the Grenadines,2022,14573,wb
+Samoa,2022,5156,wb
+Samoa,2021,5535,wb
+Samoa,2017,6239,wb
+Samoa,2019,6346,wb
+Samoa,2018,6140,wb
+Samoa,2020,6062,wb
+San Marino,2019,60076,wb
+San Marino,2018,58898,wb
+San Marino,2020,56364,wb
+San Marino,2021,61609,wb
+San Marino,2017,58202,wb
+Sao Tome and Principe,2022,3439,wb
+Sao Tome and Principe,2021,3502,wb
+Sao Tome and Principe,2019,3482,wb
+Sao Tome and Principe,2018,3466,wb
+Sao Tome and Principe,2020,3507,wb
+Sao Tome and Principe,2017,3373,wb
+Saudi Arabia,2020,44771,wb
+Saudi Arabia,2017,47552,wb
+Saudi Arabia,2018,47714,wb
+Saudi Arabia,2019,47025,wb
+Saudi Arabia,2021,46768,wb
+Saudi Arabia,2022,50188,wb
+Senegal,2022,3565,wb
+Senegal,2021,3512,wb
+Senegal,2020,3384,wb
+Senegal,2019,3430,wb
+Senegal,2018,3369,wb
+Senegal,2017,3259,wb
+Serbia,2019,18307,wb
+Serbia,2018,17453,wb
+Serbia,2020,18263,wb
+Serbia,2021,19860,wb
+Serbia,2022,20886,wb
+Serbia,2017,16611,wb
+Seychelles,2021,27928,wb
+Seychelles,2017,27337,wb
+Seychelles,2018,28081,wb
+Seychelles,2019,29190,wb
+Seychelles,2020,26705,wb
+Seychelles,2022,25206,wb
+Sierra Leone,2018,1610,wb
+Sierra Leone,2017,1594,wb
+Sierra Leone,2019,1656,wb
+Sierra Leone,2020,1586,wb
+Sierra Leone,2021,1615,wb
+Sierra Leone,2022,1635,wb
+Singapore,2017,95334,wb
+Singapore,2018,98280,wb
+Singapore,2019,98455,wb
+Singapore,2020,94910,wb
+Singapore,2021,107741,wb
+Singapore,2022,108036,wb
+Sint Maarten (Dutch part),2020,36992,wb
+Sint Maarten (Dutch part),2022,41943,wb
+Sint Maarten (Dutch part),2021,38361,wb
+Sint Maarten (Dutch part),2019,43395,wb
+Sint Maarten (Dutch part),2018,39788,wb
+Sint Maarten (Dutch part),2017,43056,wb
+Slovakia,2017,30142,wb
+Slovakia,2019,32057,wb
+Slovakia,2020,30961,wb
+Slovakia,2021,32513,wb
+Slovakia,2022,33176,wb
+Slovakia,2018,31314,wb
+Slovenia,2017,36508,wb
+Slovenia,2018,37996,wb
+Slovenia,2019,39061,wb
+Slovenia,2021,40104,wb
+Slovenia,2020,37155,wb
+Slovenia,2022,41015,wb
+Solomon Islands,2022,2248,wb
+Solomon Islands,2021,2397,wb
+Solomon Islands,2020,2469,wb
+Solomon Islands,2019,2617,wb
+Solomon Islands,2018,2633,wb
+Solomon Islands,2017,2625,wb
+Somalia,2017,1558,wb
+Somalia,2018,1548,wb
+Somalia,2019,1547,wb
+Somalia,2020,1457,wb
+Somalia,2021,1458,wb
+Somalia,2022,1449,wb
+South Africa,2022,13479,wb
+South Africa,2021,13338,wb
+South Africa,2019,13851,wb
+South Africa,2018,13995,wb
+South Africa,2017,13950,wb
+South Africa,2020,12867,wb
+South Asia (WB),2022,6720,wb
+South Asia (WB),2021,6362,wb
+South Asia (WB),2020,5938,wb
+South Asia (WB),2019,6295,wb
+South Asia (WB),2018,6124,wb
+South Asia (WB),2017,5827,wb
+South Korea,2017,40957,wb
+South Korea,2018,41966,wb
+South Korea,2019,42759,wb
+South Korea,2020,42397,wb
+South Korea,2021,44300,wb
+South Korea,2022,45560,wb
+Spain,2022,40223,wb
+Spain,2021,38319,wb
+Spain,2020,36051,wb
+Spain,2019,40782,wb
+Spain,2018,40277,wb
+Spain,2017,39550,wb
+Sri Lanka,2019,13639,wb
+Sri Lanka,2017,13545,wb
+Sri Lanka,2018,13753,wb
+Sri Lanka,2020,12939,wb
+Sri Lanka,2022,12200,wb
+Sri Lanka,2021,13251,wb
+Sub-Saharan Africa (WB),2017,3824,wb
+Sub-Saharan Africa (WB),2018,3831,wb
+Sub-Saharan Africa (WB),2019,3834,wb
+Sub-Saharan Africa (WB),2020,3666,wb
+Sub-Saharan Africa (WB),2021,3726,wb
+Sub-Saharan Africa (WB),2022,3767,wb
+Sudan,2019,4133,wb
+Sudan,2017,4614,wb
+Sudan,2018,4349,wb
+Sudan,2020,3875,wb
+Sudan,2021,3701,wb
+Sudan,2022,3571,wb
+Suriname,2021,14811,wb
+Suriname,2020,15329,wb
+Suriname,2019,18449,wb
+Suriname,2018,18438,wb
+Suriname,2022,15048,wb
+Suriname,2017,17753,wb
+Sweden,2019,52851,wb
+Sweden,2020,51331,wb
+Sweden,2021,54160,wb
+Sweden,2022,55359,wb
+Sweden,2018,52349,wb
+Sweden,2017,51948,wb
+Switzerland,2021,71045,wb
+Switzerland,2020,67928,wb
+Switzerland,2019,69924,wb
+Switzerland,2018,69629,wb
+Switzerland,2022,72278,wb
+Switzerland,2017,68194,wb
+Syria,2019,7211,pw
+Taiwan,2019,46761,pw
+Taiwan,2018,45612,pw
+Taiwan,2017,45375,pw
+Tajikistan,2017,3236,wb
+Tajikistan,2018,3405,wb
+Tajikistan,2019,3575,wb
+Tajikistan,2020,3652,wb
+Tajikistan,2022,4137,wb
+Tajikistan,2021,3910,wb
+Tanzania,2018,2512,wb
+Tanzania,2017,2458,wb
+Tanzania,2019,2579,wb
+Tanzania,2020,2553,wb
+Tanzania,2021,2584,wb
+Tanzania,2022,2624,wb
+Thailand,2022,17508,wb
+Thailand,2017,17008,wb
+Thailand,2018,17669,wb
+Thailand,2019,17997,wb
+Thailand,2020,16866,wb
+Thailand,2021,17087,wb
+Togo,2017,1970,wb
+Togo,2018,2015,wb
+Togo,2019,2064,wb
+Togo,2020,2059,wb
+Togo,2022,2203,wb
+Togo,2021,2131,wb
+Tonga,2021,6143,wb
+Tonga,2020,6357,wb
+Tonga,2019,6344,wb
+Tonga,2018,6288,wb
+Tonga,2017,6257,wb
+Trinidad and Tobago,2018,25865,wb
+Trinidad and Tobago,2019,25698,wb
+Trinidad and Tobago,2020,23393,wb
+Trinidad and Tobago,2021,23036,wb
+Trinidad and Tobago,2022,23296,wb
+Trinidad and Tobago,2017,26481,wb
+Tunisia,2021,10396,wb
+Tunisia,2017,10875,wb
+Tunisia,2018,11047,wb
+Tunisia,2019,11114,wb
+Tunisia,2020,10040,wb
+Tunisia,2022,10569,wb
+Turkey,2022,33150,wb
+Turkey,2021,31722,wb
+Turkey,2020,28726,wb
+Turkey,2019,28477,wb
+Turkey,2018,28652,wb
+Turkey,2017,28193,wb
+Turkmenistan,2021,14697,wb
+Turkmenistan,2017,13704,wb
+Turkmenistan,2018,14321,wb
+Turkmenistan,2019,14993,wb
+Turkmenistan,2020,14270,wb
+Turkmenistan,2022,14740,wb
+Turks and Caicos Islands,2018,25568,wb
+Turks and Caicos Islands,2022,20718,wb
+Turks and Caicos Islands,2021,19764,wb
+Turks and Caicos Islands,2020,18475,wb
+Turks and Caicos Islands,2019,25934,wb
+Turks and Caicos Islands,2017,25208,wb
+Tuvalu,2017,4236,wb
+Tuvalu,2020,4578,wb
+Tuvalu,2018,4281,wb
+Tuvalu,2019,4832,wb
+Tuvalu,2022,4591,wb
+Tuvalu,2021,4604,wb
+Uganda,2022,2280,wb
+Uganda,2021,2246,wb
+Uganda,2020,2240,wb
+Uganda,2019,2250,wb
+Uganda,2018,2187,wb
+Uganda,2017,2128,wb
+Ukraine,2017,11861,wb
+Ukraine,2018,12337,wb
+Ukraine,2019,12805,wb
+Ukraine,2020,12408,wb
+Ukraine,2021,12949,wb
+Ukraine,2022,10731,wb
+United Arab Emirates,2017,71182,wb
+United Arab Emirates,2018,71551,wb
+United Arab Emirates,2019,71782,wb
+United Arab Emirates,2020,67668,wb
+United Arab Emirates,2021,70028,wb
+United Arab Emirates,2022,74918,wb
+United Kingdom,2018,46413,wb
+United Kingdom,2017,46048,wb
+United Kingdom,2019,46909,wb
+United Kingdom,2020,41896,wb
+United Kingdom,2021,45568,wb
+United Kingdom,2022,47587,wb
+United States,2022,64623,wb
+United States,2017,59908,wb
+United States,2018,61348,wb
+United States,2019,62471,wb
+United States,2020,60159,wb
+United States,2021,63636,wb
+Upper-middle-income countries,2020,16491,wb
+Upper-middle-income countries,2017,15622,wb
+Upper-middle-income countries,2018,16243,wb
+Upper-middle-income countries,2019,16767,wb
+Upper-middle-income countries,2021,17634,wb
+Upper-middle-income countries,2022,18129,wb
+Uruguay,2022,24427,wb
+Uruguay,2020,22073,wb
+Uruguay,2019,23553,wb
+Uruguay,2018,23388,wb
+Uruguay,2017,23385,wb
+Uruguay,2021,23257,wb
+Uzbekistan,2018,7118,wb
+Uzbekistan,2017,6841,wb
+Uzbekistan,2019,7404,wb
+Uzbekistan,2020,7408,wb
+Uzbekistan,2021,7801,wb
+Uzbekistan,2022,8073,wb
+Vanuatu,2018,3045,wb
+Vanuatu,2019,3070,wb
+Vanuatu,2020,2849,wb
+Vanuatu,2021,2800,wb
+Vanuatu,2017,3031,wb
+Vanuatu,2022,2786,wb
+Venezuela,2013,19802,pw
+Venezuela,2014,12935,pw
+Vietnam,2022,11397,wb
+Vietnam,2021,10628,wb
+Vietnam,2020,10451,wb
+Vietnam,2019,10252,wb
+Vietnam,2018,9636,wb
+Vietnam,2017,9051,wb
+World,2017,16186,wb
+World,2018,16589,wb
+World,2019,16877,wb
+World,2020,16213,wb
+World,2022,17527,wb
+World,2021,17091,wb
+Yemen,2017,1429,pw
+Yemen,2018,1755,pw
+Yemen,2019,1777,pw
+Zambia,2022,3366,wb
+Zambia,2020,3184,wb
+Zambia,2019,3372,wb
+Zambia,2018,3426,wb
+Zambia,2017,3395,wb
+Zambia,2021,3287,wb
+Zimbabwe,2021,2115,wb
+Zimbabwe,2017,2332,wb
+Zimbabwe,2018,2400,wb
+Zimbabwe,2019,2203,wb
+Zimbabwe,2020,1990,wb
+Zimbabwe,2022,2208,wb
