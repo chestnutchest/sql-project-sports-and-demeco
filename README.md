@@ -22,7 +22,7 @@ Using PostgreSQL, I will be answering questions like:
 
 ## Quick Navigation
 
-* [Results folder (including SQL query scripts)](sql_queries_and_outputs/)
+* [Results folder (including SQL query scripts)](sql_queries_and_outputs/) and the [Results folder README.md](sql_queries_and_outputs/README.md)
 * [PostgreSQL schema script](schema.sql)
 
 ## Project Description
@@ -35,7 +35,9 @@ The following economic and demographic metrics were analyzed in this project:
 
 The medal performances at recent Olympic Games (OG) were chosen to represent sporting strength as the OG is the most prestigious and recognizable sporting event that encompasses over 30 sports and over 200 delegations from across the world. 
 
-The raw data were processed in Python. Input datasets in CSV format were imported into a **PostgreSQL** database for query. 
+The raw data were processed with pandas in Python. Input datasets in CSV format were imported into a **PostgreSQL** database for query.
+
+**Key SQL concepts applied in this project:** nested queries, CTE, subqueries, window functions, joins, views, aggregation functions, filtering, conditionals
 
 ## Repo Structure
 
@@ -49,6 +51,7 @@ The raw data were processed in Python. Input datasets in CSV format were importe
         * `s2_econ_and_medals.sql`: SQL queries for GDP per capita-related analysis
         * `s3_population_and_medals.sql`: SQL queries for population size-related analysis
     * `s*_*_and_medals.md`: The SQL queries and their associated outputs presented in a markdown format. The contents of these files are same as the identically named `s*_*_and_medals.sql` files but are presented in a markdown format for ease of visualization and navigation.
+    * `README.md`: a navigation guide for this folder
 * `LICENSE.txt`: License agreement
 * `misc/`: Miscellaneous items, including disclaimer statements.
 
@@ -56,6 +59,8 @@ The raw data were processed in Python. Input datasets in CSV format were importe
 ## PostgreSQL Database Diagram
 
 ![Schema](misc/assets/schema.png)
+
+For detailed descriptions of these tables, please check out these two files: [input_data_descriptions.md](database_csvs/input_data_descriptions.md) and [schema.sql](schema.sql).
 
 ## Sources
 

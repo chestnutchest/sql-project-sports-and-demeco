@@ -143,7 +143,7 @@ Output:
 |JPN|Japan|     .478|20|12|13|45|
 
 
-### Countries/territories with the highest medal-to-gdp-per-capita ratio 
+### Countries/territories with the highest medal-to-GDP-per-capita ratio 
 
 i.e. How many medals can you get per 1000 int. dollars in GDP per capita?
 
@@ -210,7 +210,7 @@ Output:
 |SGP|Singapore|108036|0|0|0|0|
 |UAE|United Arab Emirates|74918|0|0|0|0|
 
-### Countries/territories with the lowest gdp per capita among those that won at least one medal at these games
+### Countries/territories with the lowest GDP per capita among those that won at least one medal at these games
 
 Query:
 ```sql
