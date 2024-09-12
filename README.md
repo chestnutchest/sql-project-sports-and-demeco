@@ -22,7 +22,7 @@ Using PostgreSQL, I will be answering questions like:
 
 ## Quick Navigation
 
-* [Results folder (including SQL query scripts)](sql_queries_and_outputs/) and the [Results folder README.md](sql_queries_and_outputs/README.md)
+* [SQL analyses and results folder](sql_queries_and_outputs/) and [its README.md](sql_queries_and_outputs/README.md)
 * [PostgreSQL schema script](schema.sql)
 
 ## Project Description
@@ -45,13 +45,13 @@ The raw data were processed with pandas in Python. Input datasets in CSV format 
     * `*.csv`: input datasets, including medal counts and demographic and economic datasets
     * `input_data_descriptions.md`: detailed descriptions of the input datasets 
 * `schema.sql`: the SQL script for creating the PostgreSQL database schema used in this project
-* `sql_queries_and_outputs/`: SQL queries and their outputs
+* `sql_queries_and_outputs/`: SQL analysis and results folder, including SQL queries and their outputs
     * `s*_*_and_medals.sql`: SQL query scripts
         * `s1_exploratory_analyses.sq`: SQL queries for the exploratory analyses, such as the top performing delegations and continents at recent OGs
         * `s2_econ_and_medals.sql`: SQL queries for GDP per capita-related analysis
         * `s3_population_and_medals.sql`: SQL queries for population size-related analysis
-    * `s*_*_and_medals.md`: The SQL queries and their associated outputs presented in a markdown format. The contents of these files are same as the identically named `s*_*_and_medals.sql` files but are presented in a markdown format for ease of visualization and navigation.
-    * `README.md`: a navigation guide for this folder
+    * `s*_*.md`: The SQL queries and their associated outputs presented in a markdown format. The contents of these files are same as the identically named `s*_*.sql` files but are presented in a markdown format for ease of visualization and navigation.
+    * `README.md`: a navigational guide for this folder
 * `LICENSE.txt`: License agreement
 * `misc/`: Miscellaneous items, including disclaimer statements.
 
@@ -74,4 +74,4 @@ This repository is distributed under a Creative Commons Attribution Share Alike 
 
 This repository represents a personal SQL data analytic project. The information presented here are for informational purpose only and are provided on an as-is basis without any warranties. This repo is not intended to represent the personal opinions of the author and should not be construed as such in any way. **Please carefully review the full [disclaimer statements](misc/disclaimers.md).**
 
-Thank you for checking out this project! I hope you enjoy these analyses, and best of luck to your favorite athletes on their quest for their next medal, whichever teams you support!
+Thank you for checking out this project! I hope you enjoy these analyses, and whichever teams you support, best of luck to your favorite athletes on their quest for their next medal!

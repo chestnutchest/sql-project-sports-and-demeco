@@ -1,16 +1,16 @@
 # Database CSV files Documentation
 
-The csv files in this folder have been processed in Python and were imported into a PostgreSQL database for analysis.
+The csv files in this folder have been processed with pandas in Python and were imported into a PostgreSQL database for analysis.
 
-This documentation provides an overview of the contents stored in each csv file and detailed descriptions of each column. The data sources are also provided where appropriate.
+This documentation provides an overview of the information stored in each csv file and detailed descriptions of each of their columns. The data sources are also provided where appropriate.
 
-For information on which SQL table these files should be imported into, please consult [schema.sql](../schema.sql).
+For information on which SQL tables these files should be imported into, please consult [schema.sql](../schema.sql).
 
 ## List of abbreviations/acronyms that you may encounter 
 
 demeco - demographic and economic \
 pop - population \
-GDP - Gross Domestic Product \
+GDP - gross domestic product \
 OG - Olympic Games \
 NOC - National Olympic Committee \
 NPC - National Paralympic Committee 
