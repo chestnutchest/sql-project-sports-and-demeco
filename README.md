@@ -1,4 +1,4 @@
-# Sporting Prowess: More Than Just A Game
+# Sporting Prowess: Beyond Just the Scoreboards
 ### A SQL (PostgreSQL) Data Analytic Project
 
 A SQL data analytic project exploring the relationships between sporting strength and various economic and demographic metrics of countries and territories from across the world.
