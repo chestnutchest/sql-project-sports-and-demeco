@@ -1,4 +1,4 @@
-# Economics, Demographics, and Sporting Prowess
+# Sporting Prowess: More Than Just A Game
 ### A SQL (PostgreSQL) Data Analytic Project
 
 A SQL data analytic project exploring the relationships between sporting strength and various economic and demographic metrics of countries and territories from across the world.
@@ -46,7 +46,7 @@ The raw data were processed with pandas in Python. Input datasets in CSV format 
     * `input_data_descriptions.md`: detailed descriptions of the input datasets 
 * `schema.sql`: the SQL script for creating the PostgreSQL database schema used in this project
 * `sql_queries_and_outputs/`: SQL analysis and results folder, including SQL queries and their outputs
-    * `s*_*_and_medals.sql`: SQL query scripts
+    * `s*_*.sql`: SQL query scripts
         * `s1_exploratory_analyses.sq`: SQL queries for the exploratory analyses, such as the top performing delegations and continents at recent OGs
         * `s2_econ_and_medals.sql`: SQL queries for GDP per capita-related analysis
         * `s3_population_and_medals.sql`: SQL queries for population size-related analysis
