@@ -45,7 +45,7 @@ The OG medal counts were collected from relevant OG medal table pages on [Wikipe
 
 ## DEMECO datasets-related files
 
-Unless otherwise stated, the demeco datasets were retrieved from [ourworldindata.org](https://www.ourworldindata.org). Some of the demeco datasets stored in this repo have been further processed to retain information related to the questions investigated by this project. This means certain information present in the original ourworldindata.org version unrelated to the project, such as data from earlier years or projections for future years, have been removed. The datasets have also be reformated to be compatible with the SQL query scripts.
+Unless otherwise stated, the demeco datasets were retrieved from [ourworldindata.org](https://www.ourworldindata.org). Some of the demeco datasets stored in this repo have been further processed to retain information related to the questions investigated by this project. This means certain information present in the original ourworldindata.org versions that are unrelated to this project, such as data from earlier years or projections for future years, have been removed. The datasets have also be reformated to be compatible with the SQL query scripts.
 
 - `gdp_per_capita.csv`: GDP per capita data
     - `entity_name`: name of the geographical entity

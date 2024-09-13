@@ -37,7 +37,7 @@ The medal performances at recent Olympic Games (OG) were chosen to represent spo
 
 The raw data were processed with pandas in Python. Input datasets in CSV format were imported into a **PostgreSQL** database for query.
 
-**Key SQL concepts applied in this project:** nested queries, CTE, subqueries, window functions, joins, views, aggregation functions, filtering, conditionals
+**Key SQL concepts applied in this project:** nested queries, CTE, subqueries, window functions, joins, views, aggregate functions, filtering, conditionals
 
 ## Repo Structure
 

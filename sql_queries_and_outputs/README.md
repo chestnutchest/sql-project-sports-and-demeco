@@ -2,7 +2,7 @@
 
 This folder stores the data analysis SQL queries and their outputs. 
 
-**Key SQL concepts applied in these analyses:** nested queries, CTE, subqueries, window functions, joins, views, aggregation functions, filtering, conditionals
+**Key SQL concepts applied in these analyses:** nested queries, CTE, subqueries, window functions, joins, views, aggregate functions, filtering, conditionals
 
 Currently there are three sets of analysis:
 * `s1_exploratory_analyses.*` Exploratory analyses (e.g. who are the best performing teams, which continent won the most medals)
