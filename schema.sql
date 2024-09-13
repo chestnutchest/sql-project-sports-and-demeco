@@ -72,8 +72,8 @@ create table if not exists medal_table_2018 (
 create tables for the demographic/economical datasets (demeco datasets)
 here, entity_name are used as foreign key to reference the entity_name column of the demeco_entity_info table. 
 However, lots of geographical entities in these demeco datasets are not included in the demeco_entity_info table, 
-reason being that the demeco_entity_info table only includes entities that have a corresponding NOC that participate at the OGs.
-many of the entities in the demeco datasets do not have a corresponding noc that participate at the OGs (e.g. Scotland, French Polynesia, etc.), 
+reason being that the demeco_entity_info table only includes entities that have a corresponding NOC that participates at the OGs.
+many of the entities in the demeco datasets do not have a corresponding noc that participate at the OGs (e.g. Greenland, Scotland, French Polynesia, European Union, etc.), 
 To avoid SQL's foreign key error when importing data, data will be first loaded into a staging table that has the same structure as the actual table 
 but without the foreign key constraint. 
 Then we import the staging table into the actual table after fitlering out entities that are not part of the demeco_entity_info table.
@@ -163,4 +163,6 @@ limit 10;
 
 -- optional
 drop table if exists geo_info; 
+drop table if exists pop_staging_table;
+drop table if exists gdp_per_capita_staging_table;
 
